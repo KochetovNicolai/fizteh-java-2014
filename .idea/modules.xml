@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/command-prompt-core/command-prompt-core.iml" filepath="$PROJECT_DIR$/command-prompt-core/command-prompt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-map/file-map.iml" filepath="$PROJECT_DIR$/file-map/file-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizteh-java-2014.iml" filepath="$PROJECT_DIR$/fizteh-java-2014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell.iml" filepath="$PROJECT_DIR$/shell/shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table-api/table-api.iml" filepath="$PROJECT_DIR$/table-api/table-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/table-impl/table-impl.iml" filepath="$PROJECT_DIR$/table-impl/table-impl.iml" />
+    </modules>
+  </component>
+</project>
+
